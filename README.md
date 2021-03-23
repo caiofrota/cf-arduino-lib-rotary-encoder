@@ -32,7 +32,7 @@ You can either install through the Arduino Library Manager or checkout the lates
 
 ### Using
 - Schematic
-![SCHEME](https://github.com/caiofrota/cf-arduino-lib-rotary-encoder/blob/main/img/scheme.png)
+![SCHEME](https://github.com/caiofrota/cf-arduino-lib-rotary-encoder/blob/main/img/scheme.jpg)
 
 - Include in your sketch.
 ```cpp
