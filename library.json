@@ -1,0 +1,20 @@
+{
+    "name": "CF Rotary Encoder",
+    "keywords": "cf, arduino, cpp, rotary, encoder, pushbutton, push, button",
+    "description": "A library for Arduino that helps interface for Rotary Encoders.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/caiofrota/cf-arduino-lib-rotary-encoder"
+    },
+    "authors": [
+        {
+            "name": "caiofrota",
+            "url": "https://github.com/caiofrota"
+        }
+    ],
+    "contributors": [
+    ],
+    "version": "1.0.0",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino"
+}

@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map For CFLogger
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CFRotaryEncoder	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+interrupt	KEYWORD2
+doClockwise	KEYWORD2
+doCounterClockwise	KEYWORD2
+getLastValue	KEYWORD2
+getValue	KEYWORD2
+setValue	KEYWORD2
+getDirection	KEYWORD2
+setBeforeRotaryChangeValueCallback	KEYWORD2
+setAfterRotaryChangeValueCallback	KEYWORD2
+pushButtonBegin	KEYWORD2
+pushButtonLoop	KEYWORD2
+getPushButtonState	KEYWORD2
+isPushButtonPulledUp	KEYWORD2
+setPushButtonPulledUp	KEYWORD2
+setPushButtonPulledDown	KEYWORD2
+getPushButtonShortPressTime	KEYWORD2
+setPushButtonShortPressTime	KEYWORD2
+getPushButtonLongPressTime	KEYWORD2
+setPushButtonLongPressTime	KEYWORD2
+setPushButtonOnShortPressReachedCallback	KEYWORD2
+setPushButtonOnLongPressReachedCallback	KEYWORD2
+setPushButtonOnPressCallback	KEYWORD2
+setPushButtonOnShortPressCallback	KEYWORD2
+setPushButtonOnLongPressCallback	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
