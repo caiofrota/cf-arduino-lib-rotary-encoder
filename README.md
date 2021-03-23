@@ -66,7 +66,7 @@ void setup() {
     rotaryEncoder.setAfterRotaryChangeValueCallback(rotaryAfterChangeValueCallback);
     rotaryEncoder.setPushButtonOnPressCallback(rotaryOnPressCallback);
     
-    // Start push button.
+    // Start rotary encoder.
     rotaryEncoder.begin();
     // ... YOUR CODE ...
 }
